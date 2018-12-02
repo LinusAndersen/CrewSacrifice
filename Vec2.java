@@ -8,11 +8,11 @@ public class Vec2 {
 	/**
 	 * x-component of the vector
 	 */
-	double x;
+	public double x;
 	/**
 	 * y-component of the vector
 	 */
-	double y;
+	public double y;
 
 	/**
 	 * creates a new vector with the given components
